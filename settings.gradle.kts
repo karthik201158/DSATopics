@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "DSATopics"
 include(":app")
- 
+include(":graph")
